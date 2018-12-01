@@ -1,2 +1,3 @@
 # mutithreading-eventbus
 多线程设计模式
+使用java消息中间件的思想设计java进程内部消息中间件
